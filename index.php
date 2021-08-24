@@ -25,7 +25,7 @@ include_once("materi.html");
             <a href="#" class="logo"><span>Johannes Alexander Putra-</span>Website</a>
             <div id="menu" class="fas fa-bars"></div>
             <nav class="navbar">
-                <a href="home.html">home</a>
+                <a href="Home.html">home</a>
                 <a href="materi.html">Tulisan</a>
                 
             </nav>
@@ -38,7 +38,7 @@ include_once("materi.html");
                 <h3>Blog Utama Milik Johannes Alexander Putra</h3>
             </div>
             <div class="image">
-                <img src="img/home.jpg" alt="home">
+                <img src="img/Home.jpg" alt="home">
             </div>
         </section>
         <!--akhir home section-->
