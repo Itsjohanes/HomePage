@@ -65,6 +65,7 @@ include_once("materi.html");
                     <p><i class="fas fa-envelope"></i>johanesalex774@gmail.com</p>
                     <p><i class="fas fa-map-marker-alt"></i>Bandung, Indonesia</p>
                 </div>
+                <p class="Cpoyright">© Johannes Alexander Putra 2021 </p>
             </div>
         </section>
         <!--akhir footer section-->
