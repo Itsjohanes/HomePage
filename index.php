@@ -27,6 +27,7 @@ include_once("materi.html");
             <nav class="navbar">
                 <a href="Home.html">home</a>
                 <a href="materi.html">Tulisan</a>
+                <a href="Buku.html">Buku</a>
                 
             </nav>
         </header>
