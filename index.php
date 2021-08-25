@@ -58,9 +58,10 @@ include_once("materi.html");
                     <a href="https://www.instagram.com/johannesap_/">instagram</a>
                     <a href="https://www.dicoding.com/users/johanesap">Dicoding</a>
                     <a href="https://www.linkedin.com/in/johannes-alexander-putra-044833201/">linkedin</a>
+                    <a href="https://github.com/Itsjohanes">GitHub</a>
                 </div>
                 <div class="box">
-                    <h3>contact us</h3>
+                    <h3>contact me</h3>
                     <p><i class="fas fa-phone"></i>+62 81934172542</p>
                     <p><i class="fas fa-envelope"></i>johanesalex774@gmail.com</p>
                     <p><i class="fas fa-map-marker-alt"></i>Bandung, Indonesia</p>
