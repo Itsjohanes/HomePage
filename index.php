@@ -54,10 +54,7 @@ include_once("materi.html");
                     <p>Johannes Alexander Putra adalah seorang mahasiswa di salah satu universitas negeri di Indonesia saat ini sedang mendalami ilmu komputer dan Teologi Kristen</p>
                 </div>
                 <div class="box">
-                    <pre>
-                </pre>
-                <pre>
-                </pre>
+                  
                     <h3>follow me</h3>
                     <a href="https://www.facebook.com/Johannesalexanderputra">facebook</a>
                     <a href="https://www.instagram.com/johannesap_/">instagram</a>
@@ -65,6 +62,10 @@ include_once("materi.html");
                     <a href="https://www.linkedin.com/in/johannes-alexander-putra-044833201/">linkedin</a>
                     <a href="https://github.com/Itsjohanes">GitHub</a>
                 </div>
+                  <pre>
+                </pre>
+                <pre>
+                </pre>
                 <div class="box">
                     <h3>contact me</h3>
                     <p><i class="fas fa-phone"></i>+62 81934172542</p>
