@@ -26,7 +26,7 @@ include_once("materi.html");
             <a href="#" class="logo"><span>Johannes Alexander Putra-</span>Website</a>
             <div id="menu" class="fas fa-bars"></div>
             <nav class="navbar">
-                <a href="Home.html">home</a>
+                <a href="index.php">home</a>
                 <a href="materi.html">Tulisan</a>
                 <a href="Buku.html">Buku</a>
                 
