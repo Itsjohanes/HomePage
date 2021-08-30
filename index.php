@@ -67,12 +67,7 @@ include_once("materi.html");
                     <a href="https://github.com/Itsjohanes">GitHub</a>
                 </div>
                
-                <div class="box">
-                    <h3>contact me</h3>
-                    <p><i class="fas fa-phone"></i>+62 81934172542</p>
-                    <p><i class="fas fa-envelope"></i>johanesalex774@gmail.com</p>
-                    <p><i class="fas fa-map-marker-alt"></i>Bandung, Indonesia</p>
-                </div>
+             
                 <p class="Cpoyright">© Johannes Alexander Putra 2021 </p>
             </div>
         </section>
