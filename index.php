@@ -15,7 +15,8 @@ include_once("materi.html");
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    
     <link rel="icon" href="img/johannes.jpg">
     <title>Johannes Alexander Putra</title>
 </head>
@@ -60,11 +61,11 @@ include_once("materi.html");
                 <div class="box">
                   
                     <h3>follow me</h3>
-                    <a href="https://www.facebook.com/Johannesalexanderputra"><i class="fa fa-facebook-official" aria-hidden="true"> &nbsp facebook</a>
-                    <a href="https://www.instagram.com/johannesap_/"><i class="fa fa-instagram" aria-hidden="true">&nbsp instagram</a>
-                    <a href="https://www.dicoding.com/users/johanesap"><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbspDicoding</a>
-                    <a href="https://www.linkedin.com/in/johannes-alexander-putra-044833201/"><i class="fa fa-linkedin" aria-hidden="true">&nbsp linkedin</a>
-                    <a href="https://github.com/Itsjohanes"><i class="fa fa-github" aria-hidden="true"></i>&nbsp GitHub</a>
+                    <a href="https://www.facebook.com/Johannesalexanderputra">facebook</a>
+                    <a href="https://www.instagram.com/johannesap_/">instagram</a>
+                    <a href="https://www.dicoding.com/users/johanesap">Dicoding</a>
+                    <a href="https://www.linkedin.com/in/johannes-alexander-putra-044833201/">linkedin</a>
+                    <a href="https://github.com/Itsjohanes">GitHub</a>
                 </div>
                
              
